@@ -1,0 +1,7 @@
+[run]
+
+source = ./codigo
+
+[report]
+exclude line =
+    def __str__
